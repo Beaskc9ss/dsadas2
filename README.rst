@@ -1,5 +1,5 @@
 .. list-table::
-   :widths: 100 70
+   :widths: 500 700
    :header-rows: 0
 
    * - `AAAA <READMEdd.md>`_
