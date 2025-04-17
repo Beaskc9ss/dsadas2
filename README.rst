@@ -1,6 +1,7 @@
 .. list-table::
-   :widths: 500 700
+   :widths: 80 20
    :header-rows: 0
 
-   * - `AAAA <READMEdd.md>`_
+   * - AAAA
+       ----
      - BBBB
